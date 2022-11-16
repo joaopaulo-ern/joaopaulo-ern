@@ -1,4 +1,4 @@
-### Hi there 👋
+### oi, e ai sou o joão 👋
 
 <!--
 **joaopaulo-ern/joaopaulo-ern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
